@@ -25,45 +25,47 @@ The content is structured in a **beginner-friendly sequence** to ensure a smooth
 
 ## 🧭 Folder Structure
 
+```plaintext
 C-prgramming-language-/
 ├── 01_Basics/
-│ ├── hello_world.cpp
-│ ├── input_output.cpp
-│ ├── variables_datatypes.cpp
-│ └── ...
+│   ├── hello_world.cpp
+│   ├── input_output.cpp
+│   ├── variables_datatypes.cpp
+│   └── ...
 │
 ├── 02_Loops_And_Conditionals/
-│ ├── loops_basics.cpp
-│ ├── if_else_switch.cpp
-│ ├── pattern_problems.cpp
-│ └── ...
+│   ├── loops_basics.cpp
+│   ├── if_else_switch.cpp
+│   ├── pattern_problems.cpp
+│   └── ...
 │
 ├── 03_Functions_And_Recursion/
-│ ├── functions_intro.cpp
-│ ├── recursion_examples.cpp
-│ ├── factorial_fibonacci.cpp
-│ └── ...
+│   ├── functions_intro.cpp
+│   ├── recursion_examples.cpp
+│   ├── factorial_fibonacci.cpp
+│   └── ...
 │
 ├── 04_Arrays_And_Strings/
-│ ├── arrays_basics.cpp
-│ ├── string_operations.cpp
-│ ├── common_interview_problems.cpp
-│ └── ...
+│   ├── arrays_basics.cpp
+│   ├── string_operations.cpp
+│   ├── common_interview_problems.cpp
+│   └── ...
 │
 ├── 05_Data_Structures/
-│ ├── linked_list.cpp
-│ ├── stack.cpp
-│ ├── queue.cpp
-│ ├── trees.cpp
-│ ├── graphs.cpp
-│ └── ...
+│   ├── linked_list.cpp
+│   ├── stack.cpp
+│   ├── queue.cpp
+│   ├── trees.cpp
+│   ├── graphs.cpp
+│   └── ...
 │
 ├── 06_Algorithms/
-│ ├── searching.cpp
-│ ├── sorting.cpp
-│ ├── recursion_backtracking.cpp
-│ ├── greedy.cpp
-│ ├── dynamic_programming.cpp
-│ └── ...
+│   ├── searching.cpp
+│   ├── sorting.cpp
+│   ├── recursion_backtracking.cpp
+│   ├── greedy.cpp
+│   ├── dynamic_programming.cpp
+│   └── ...
 │
 └── README.md
+
