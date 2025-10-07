@@ -69,3 +69,41 @@ C-prgramming-language-/
 │
 └── README.md
 
+
+
+---
+
+## 🧠 Topics Covered
+
+### 🧩 C++ Programming
+- Syntax, Data Types, Variables  
+- Input / Output  
+- Loops & Conditionals  
+- Functions & Recursion  
+- Pointers, References, and Memory
+
+### 📚 Data Structures
+- Arrays & Strings  
+- Linked Lists (Singly, Doubly, Circular)  
+- Stacks & Queues  
+- Trees (Binary Tree, BST, Traversals)  
+- Graphs (BFS, DFS, etc.)  
+- Hashing Techniques
+
+### ⚡ Algorithms
+- Searching & Sorting (Binary Search, Quick Sort, Merge Sort, etc.)  
+- Recursion & Backtracking  
+- Sliding Window & Two Pointer Techniques  
+- Greedy Algorithms  
+- Divide & Conquer  
+- Dynamic Programming (DP)  
+- Graph Algorithms (Dijkstra, Topological Sort, etc.)
+
+---
+
+## 🛠️ How to Use This Repository
+
+### 1️⃣ Clone the Repo
+```bash
+git clone https://github.com/rrajudepository/C-prgramming-language-.git
+
